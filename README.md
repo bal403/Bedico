@@ -1,2 +1,0 @@
-# Bedico
-teacher day
